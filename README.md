@@ -1,4 +1,4 @@
-:point_right: PUT YOUR CI BADGE HERE
+:point_right: [![Quality Gate Status](http://c1.etsisi.upm.es:8888/api/project_badges/measure?project=ETSISI-EMS_ems2025-lab-3-mantenibilidad-equipo_ruben_ray_juanlu_2d7daf24-74e9-410a-832c-cf351dfba6fc&metric=alert_status&token=sqb_3775a6c82878549a1c3fdef9b3883c482c4dad8e)](http://c1.etsisi.upm.es:8888/dashboard?id=ETSISI-EMS_ems2025-lab-3-mantenibilidad-equipo_ruben_ray_juanlu_2d7daf24-74e9-410a-832c-cf351dfba6fc)
 
 # EMS-lab3 Maintainability
 
