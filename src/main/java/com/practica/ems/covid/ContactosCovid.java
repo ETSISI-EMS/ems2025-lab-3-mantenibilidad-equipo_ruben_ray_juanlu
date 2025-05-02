@@ -22,6 +22,7 @@ import com.practica.genericas.PosicionPersona;
 import com.practica.lista.ListaContactos;
 
 public class ContactosCovid {
+
     private Poblacion poblacion;
     private Localizacion localizacion;
     private ListaContactos listaContactos;
